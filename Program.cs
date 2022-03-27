@@ -73,7 +73,7 @@ app.MapPut("provider/{id}", async (
     MinimalContextDb context,
     Provider provider) =>
     {
-        var currentProvider = await context.Providers.FindAsync(id);
+        var currentProvider = await context.Providers.AsNoTracking<Provider>().FirstOrDefaultAsync(p => p.Id == id);
         if (currentProvider == null) return Results.NotFound();
 
         if (!MiniValidator.TryValidate(provider, out var errors))
