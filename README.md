@@ -9,5 +9,5 @@ Estudo de minimal API.
   - SQLite
 - Minimal Web API
 - MinimalValidator
-- NetDevPack
+- NetDevPack.Identity
 - Auth JWT
