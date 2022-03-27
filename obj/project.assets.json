@@ -343,6 +343,15 @@
           "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {}
         }
       },
+      "MiniValidation/0.4.2-pre.20220306.48": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/MiniValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/MiniValidation.dll": {}
+        }
+      },
       "NETStandard.Library/1.6.1": {
         "type": "package",
         "dependencies": {
@@ -2269,6 +2278,23 @@
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
         "ref/xamarinwatchos10/_._"
+      ]
+    },
+    "MiniValidation/0.4.2-pre.20220306.48": {
+      "sha512": "snGW1Feb1kXx1R9P3SW5LkJnH0wjJI+bqsKePI7UAUtZzFCmZZNqI73bJctRfeRXTVeWe718U8gbHQN86dUM8A==",
+      "type": "package",
+      "path": "minivalidation/0.4.2-pre.20220306.48",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/MiniValidation.dll",
+        "lib/net6.0/MiniValidation.xml",
+        "lib/netcoreapp3.1/MiniValidation.dll",
+        "lib/netcoreapp3.1/MiniValidation.xml",
+        "lib/netstandard2.0/MiniValidation.dll",
+        "lib/netstandard2.0/MiniValidation.xml",
+        "minivalidation.0.4.2-pre.20220306.48.nupkg.sha512",
+        "minivalidation.nuspec"
       ]
     },
     "NETStandard.Library/1.6.1": {
@@ -5807,6 +5833,7 @@
       "Microsoft.EntityFrameworkCore.Sqlite.Core >= 6.0.3",
       "Microsoft.EntityFrameworkCore.Sqlite.Design >= 1.1.6",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.3",
+      "MiniValidation >= 0.4.2-pre.20220306.48",
       "Swashbuckle.AspNetCore >= 6.3.0"
     ]
   },
@@ -5866,6 +5893,10 @@
           "Microsoft.EntityFrameworkCore.Tools": {
             "target": "Package",
             "version": "[6.0.3, )"
+          },
+          "MiniValidation": {
+            "target": "Package",
+            "version": "[0.4.2-pre.20220306.48, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

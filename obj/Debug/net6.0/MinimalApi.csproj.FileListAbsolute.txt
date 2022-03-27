@@ -54,3 +54,4 @@
 /Users/fabio.santos/Projects/learn/netCore6/MinimalApi/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/fabio.santos/Projects/learn/netCore6/MinimalApi/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/fabio.santos/Projects/learn/netCore6/MinimalApi/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/fabio.santos/Projects/learn/netCore6/MinimalApi/bin/Debug/net6.0/MiniValidation.dll

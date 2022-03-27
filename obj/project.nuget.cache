@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+ATJ/Brl5cbBhv/7roBaPicsFgSDjwHS5l6ulbotKKcHd2Ylm3HJtXv/8uRkBkGWyY8g7ZTr5RO4r7gPY5jqg==",
+  "dgSpecHash": "BQeJwxHbjwtsyfju6rvtcUW1oyonqyXVgfnn4t0lm4rKrfoFVkxYp/iXImQKRIFZABeE4wr9471vjyxsBDWcMQ==",
   "success": true,
   "projectFilePath": "/Users/fabio.santos/Projects/learn/netCore6/MinimalApi/MinimalApi.csproj",
   "expectedPackageFiles": [
@@ -31,6 +31,7 @@
     "/Users/fabio.santos/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "/Users/fabio.santos/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/fabio.santos/.nuget/packages/microsoft.win32.primitives/4.3.0/microsoft.win32.primitives.4.3.0.nupkg.sha512",
+    "/Users/fabio.santos/.nuget/packages/minivalidation/0.4.2-pre.20220306.48/minivalidation.0.4.2-pre.20220306.48.nupkg.sha512",
     "/Users/fabio.santos/.nuget/packages/netstandard.library/1.6.1/netstandard.library.1.6.1.nupkg.sha512",
     "/Users/fabio.santos/.nuget/packages/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/fabio.santos/.nuget/packages/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

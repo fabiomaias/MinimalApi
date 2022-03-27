@@ -13,6 +13,7 @@
           "Microsoft.EntityFrameworkCore.Sqlite.Core": "6.0.3",
           "Microsoft.EntityFrameworkCore.Sqlite.Design": "1.1.6",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.3",
+          "MiniValidation": "0.4.2-pre.20220306.48",
           "Swashbuckle.AspNetCore": "6.3.0"
         },
         "runtime": {
@@ -221,6 +222,14 @@
           "Microsoft.NETCore.Platforms": "1.1.0",
           "Microsoft.NETCore.Targets": "1.1.0",
           "System.Runtime": "4.3.0"
+        }
+      },
+      "MiniValidation/0.4.2-pre.20220306.48": {
+        "runtime": {
+          "lib/net6.0/MiniValidation.dll": {
+            "assemblyVersion": "0.4.2.0",
+            "fileVersion": "0.4.2.0"
+          }
         }
       },
       "NETStandard.Library/1.6.1": {
@@ -1234,6 +1243,13 @@
       "sha512": "sha512-9ZQKCWxH7Ijp9BfahvL2Zyf1cJIk8XYLF6Yjzr2yi0b2cOut/HQ31qf1ThHAgCc3WiZMdnWcfJCgN82/0UunxA==",
       "path": "microsoft.win32.primitives/4.3.0",
       "hashPath": "microsoft.win32.primitives.4.3.0.nupkg.sha512"
+    },
+    "MiniValidation/0.4.2-pre.20220306.48": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-snGW1Feb1kXx1R9P3SW5LkJnH0wjJI+bqsKePI7UAUtZzFCmZZNqI73bJctRfeRXTVeWe718U8gbHQN86dUM8A==",
+      "path": "minivalidation/0.4.2-pre.20220306.48",
+      "hashPath": "minivalidation.0.4.2-pre.20220306.48.nupkg.sha512"
     },
     "NETStandard.Library/1.6.1": {
       "type": "package",
